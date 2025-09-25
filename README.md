@@ -64,3 +64,10 @@ Currently exploring the <b>MERN stack</b>, solving coding challenges, and consta
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
+---
+<p align="center">  
+  <img src="https://img.shields.io/badge/Code.%20Learn.%20Build.%20Repeat.-FFD700?style=for-the-badge&logo=starship&logoColor=black" />  
+  <br/>  
+  Made with ❤️ by <a href="https://github.com/AhamedAtheef">Ahamed Atheef</a>  
+</p>
