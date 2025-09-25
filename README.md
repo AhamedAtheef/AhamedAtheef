@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/AhamedAtheef/AhamedAtheef/blob/main/assets/banner.jpg?raw=true" 
-       alt="Banner" width="850" height="250" />
+  <img src="https://github.com/AhamedAtheef/AhamedAtheef/blob/main/assets/banner..jpg?raw=true" 
+       alt="Banner" width="850" height="350" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#ff4b4b;">ATHEEF</span></h1>
@@ -44,19 +44,15 @@ Currently exploring the <b>MERN stack</b>, solving coding challenges, and consta
 ## 🔥 Streak Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhamedAtheef&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhamedAtheef&theme=tokyonight" alt="streak stats"/>
 </p>
 
-
 ---
-
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhamedAtheef&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AhamedAtheef&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="trophies"/>
 </p>
-
-
 
 ## 🌐 Connect with Me  
 
