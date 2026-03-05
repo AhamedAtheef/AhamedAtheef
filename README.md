@@ -16,7 +16,7 @@ Currently exploring the <b>MERN stack</b>, solving coding challenges, and consta
 </p>
 
 - 🔭 Working & studying on **Web Development Projects**  
-- 🌱 Learning **MERN Stack | React | Node.js | Express | MongoDB**  
+- 🌱 Learning **MERN Stack | React | Node.js | Express | MongoDB | Nextjs | TypeScript**  
 - 👯 Open to collaborate on **Open Source Projects**  
 - 💬 Ask me about **JavaScript, TypeScript, React, Tailwind, and APIs**  
 - 📫 Reach me at: **ahamedatheef072@gmail.com**  
