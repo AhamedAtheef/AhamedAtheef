@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#ff4b4b;">ATHEEF</span></h1>
-<h3 align="center">✨ Passionate & Enthusiastic Aspiring Web Developer | Creative Thinker | Lifelong Learner 🚀</h3>
+<h3 align="center">✨ Passionate & Enthusiastic Aspiring Software Developer | Creative Thinker | Lifelong Learner 🚀</h3>
 
 ---
 
