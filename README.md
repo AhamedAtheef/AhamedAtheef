@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/AhamedAtheef/AhamedAtheef/blob/main/assets/banner..jpg?raw=true" 
+  <img src="https://github.com/AhamedAtheef/AhamedAtheef/blob/main/assets/banner.png?raw=true" 
        alt="Banner" width="850" height="350" />
 </p>
 
