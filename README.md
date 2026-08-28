@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/AhamedAtheef/AhamedAtheef/blob/main/assets/banner.png?raw=true" 
-       alt="Banner" width="850" height="350" />
+       alt="Banner" width="full" height="auto" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#ff4b4b;">ATHEEF</span></h1>
